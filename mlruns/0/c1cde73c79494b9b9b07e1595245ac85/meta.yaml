@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/VenkataRishitha/Training/MLFlow/mlruns/0/c1cde73c79494b9b9b07e1595245ac85/artifacts
+end_time: 1729751804206
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c1cde73c79494b9b9b07e1595245ac85
+run_name: bright-vole-708
+run_uuid: c1cde73c79494b9b9b07e1595245ac85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729751793200
+status: 3
+tags: []
+user_id: VenkataRishitha
