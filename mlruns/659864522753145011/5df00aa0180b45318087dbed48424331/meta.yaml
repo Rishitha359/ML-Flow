@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/659864522753145011/5df00aa0180b45318087dbed48424331/artifacts
+end_time: 1730180166105
+entry_point_name: ''
+experiment_id: '659864522753145011'
+lifecycle_stage: active
+run_id: 5df00aa0180b45318087dbed48424331
+run_name: Random Forest
+run_uuid: 5df00aa0180b45318087dbed48424331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730180162048
+status: 3
+tags: []
+user_id: VenkataRishitha

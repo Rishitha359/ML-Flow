@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/659864522753145011/701df575a1c94b2e9a4784b359d24c6c/artifacts
+end_time: 1730180169639
+entry_point_name: ''
+experiment_id: '659864522753145011'
+lifecycle_stage: active
+run_id: 701df575a1c94b2e9a4784b359d24c6c
+run_name: Decision Tree
+run_uuid: 701df575a1c94b2e9a4784b359d24c6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730180166138
+status: 3
+tags: []
+user_id: VenkataRishitha

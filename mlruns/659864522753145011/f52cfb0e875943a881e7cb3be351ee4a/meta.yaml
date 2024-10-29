@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/659864522753145011/f52cfb0e875943a881e7cb3be351ee4a/artifacts
+end_time: 1730180162018
+entry_point_name: ''
+experiment_id: '659864522753145011'
+lifecycle_stage: active
+run_id: f52cfb0e875943a881e7cb3be351ee4a
+run_name: Logistic Regression
+run_uuid: f52cfb0e875943a881e7cb3be351ee4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730180154407
+status: 3
+tags: []
+user_id: VenkataRishitha

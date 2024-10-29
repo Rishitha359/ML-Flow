@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/659864522753145011/e02a11783ae2433eb2ce2444486b0ab4/artifacts
+end_time: 1730180178254
+entry_point_name: ''
+experiment_id: '659864522753145011'
+lifecycle_stage: active
+run_id: e02a11783ae2433eb2ce2444486b0ab4
+run_name: Support Vector Machine
+run_uuid: e02a11783ae2433eb2ce2444486b0ab4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730180173556
+status: 3
+tags: []
+user_id: VenkataRishitha
